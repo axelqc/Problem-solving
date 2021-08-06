@@ -5,6 +5,7 @@ print('''
 
 print('This algorithm will determine if your number is even or odd.')
 x = int(input('Please introduce  a number: '))
+
 if x % 2 == 0:
     print(f'{x} is an even number')
 
