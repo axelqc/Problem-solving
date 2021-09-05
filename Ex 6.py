@@ -8,7 +8,7 @@ word = input("Introduce a word: ")
 backwards = word[::-1]
 
 if word == backwards:
-    print('Word is palindrome.')
+    print('Word is palindrome')
 
 else:
     print('Word is not palindrome')
